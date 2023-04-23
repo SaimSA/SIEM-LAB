@@ -69,7 +69,7 @@ The map was now set up and ready to go. It refreshed itself every 5 minutes and 
 The next day there were many more attacks from all over the world. The one from Vietnam had spent all night going through 22.7 thousand username and password combinations. From that point, I decided to delete the VM and conclude the lab as I felt the map was populated enough. 
 ![image](https://user-images.githubusercontent.com/131204778/233866179-fa936ab3-28cf-4789-ab7e-47fe56f603d1.png)
 
-This lab was very useful in giving me experience in the use of PowerShell scripts to extract Windows logs, Azure Log Analytics Workspace, and Azure Sentinel so special thanks to Josh Madakor for the tutorial. https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=141s&pp=ygURam9zaCBtYWRha29yIHNpZW0%3D
+This lab was very useful in giving me experience in the use of PowerShell scripts to extract Windows logs, Azure Log Analytics Workspace, and Azure Sentinel so special thanks to Josh Madakor for the tutorial. https://youtu.be/RoZeVbbZ0o0
 
 
 
