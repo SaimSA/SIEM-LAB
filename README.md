@@ -59,6 +59,7 @@ I was then able to visualise the results on a map.
 ![image](https://user-images.githubusercontent.com/131204778/233866134-1f93d433-bff2-4c39-82f5-7e8a5d5657c0.png)
 
 I plotted the latitudes and longitudes on the map.
+
 ![image](https://user-images.githubusercontent.com/131204778/233866139-e0aef249-96d2-4f7e-a68b-4037e04384f8.png)
 
 The map was now set up and ready to go. It refreshed itself every 5 minutes and plotted new areas ever so often. The first attempts came from Vietnam. I left it on overnight to see how populated it would get.
