@@ -1,5 +1,6 @@
 # SIEM-LAB
 The purpose of this lab was to gain some exposure on SIEM’s. The setup involved a honeypot VM in the cloud and using Azure Sentinel to monitor attacks and failed RDP logs from all over the world to my VM. The locations of attackers were sent into Sentinel and illustrated on a world map. Josh Madakor’s SIEM Tutorial was followed.
+
 After setting up my Azure subscription, I was presented with  the Azure portal. From there I went to the Virtual Machines section and created the Virtual Machine that will be exposed to everyone. I made sure to create a network security group that allowed everything into the VM.
 ![image](https://user-images.githubusercontent.com/131204778/233865783-6bb56155-9c28-4a1d-8700-ec6191ee74fc.png)
 
